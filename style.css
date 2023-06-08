@@ -67,7 +67,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 50em;
+    max-width: 40em;
     margin-top: 1.5em;
 }
 .conteudo-principal{
@@ -102,6 +102,7 @@ main section .btn-box{
 main section p{
     color: #fff;
     line-height: 22px;
+    padding: 0px 5px ;
 }
 .btn-box2{
     display: flex;
@@ -125,7 +126,7 @@ main section p{
     filter: invert(1);
 }
 footer{
-    margin-bottom: 10.5em;
+    margin-bottom: 1.5em;
 }
 footer .cards{
     display: flex;
